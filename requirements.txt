@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+spacy
+gensim
+torch
+transformers
+ufal.udpipe
+udapi
+wget
+nltk
